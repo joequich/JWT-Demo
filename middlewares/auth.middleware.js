@@ -1,4 +1,5 @@
 const { request, response } = require('express');
+const { compareSync } = require('../helpers/bcrypt.helper');
 const { getUserCredentialsByEmail } = require('../services/users.service');
 
 const verifyUserPassword = (req = request, res = response, next) => {
