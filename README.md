@@ -1,6 +1,6 @@
 # JWT-Demo
 
-Demostracion del flujo básico de autenticación y autorización mediante JWT.
+Demostracion del flujo básico de autenticación y autorización mediante JWT. 
 
 ### Instalación
 
